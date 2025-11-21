@@ -5,7 +5,16 @@ Tenho 22 anos e sou apaixonado por programação, inovação e resolução de pr
 
 Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me manter atualizado com as tendências e melhores práticas da área de software.
 
-#### **• 💻 Linguagens:**
+<div> 
+<a href="https://www.instagram.com/_bruno_donati?igsh=bTZzdXF6NDJzN2tl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto: brunodedonati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/bruno-andreas-de-donati-8b6577317" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:contatorafaballerini@gmail.com"><a 
+</div>
+
+---
+
+### **💻 Linguagens:**
 
 <img 
     align="left" 
@@ -31,13 +40,30 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
 />
-<br/>
-##
 
-<div> 
-<a href="https://www.instagram.com/_bruno_donati?igsh=bTZzdXF6NDJzN2tl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto: brunodedonati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/bruno-andreas-de-donati-8b6577317" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:contatorafaballerini@gmail.com"><a 
-</div>
+<br/>
+
+### **📊 Estatísticas:**
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="500" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Donatti-0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
