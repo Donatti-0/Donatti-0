@@ -54,6 +54,14 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
     src="https://github-readme-stats.vercel.app/api?username=Donatti-0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="500" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donatti-0&theme=dark&layout=compact&custom_title=Linguagens:&langs_count=9" 
+  />
+
+</p>
 
 
 
