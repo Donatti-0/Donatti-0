@@ -9,16 +9,16 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
 
 <img 
     align="left" 
-    alt="python"
-    title="python" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="Csahrp" 
-    title="Csharp"
+    alt="C Sharp" 
+    title="C Sharp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
