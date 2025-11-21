@@ -5,7 +5,7 @@ Tenho 22 anos e sou apaixonado por programação, inovação e resolução de pr
 
 Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me manter atualizado com as tendências e melhores práticas da área de software.
 
-#### **💻 Linguagens:**
+#### **• 💻 Linguagens:**
 
 <img 
     align="left" 
