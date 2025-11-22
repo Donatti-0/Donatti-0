@@ -26,11 +26,11 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
 />
 <img 
     align="left" 
-    alt="C Sharp" 
-    title="C Sharp"
+    alt="CSS" 
+    title="CSS"  
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
