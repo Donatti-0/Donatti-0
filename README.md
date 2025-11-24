@@ -43,16 +43,6 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
 
 <br/>
 
-### **📊 Estatísticas:**
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="500" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donatti-0&theme=dark&layout=compact&custom_title=Tecnologias:&langs_count=9" 
-  />
-
 
 </p>
 
