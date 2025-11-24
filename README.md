@@ -15,7 +15,6 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
 ---
 
 ### **💻 Linguagens e tecnologias:**
-<br/>
 <img 
     align="left" 
     alt="Python"
@@ -41,7 +40,6 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
 />
 
-<br/>
 <br/>
 
 ---
