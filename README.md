@@ -1,5 +1,5 @@
 ## **👾 Bruno Donati**
-**`🎓 Estudandte de Engenharia de Software`**
+**`🎓 Estudante de Engenharia de Software`**
 
 Tenho 22 anos e sou apaixonado por programação, inovação e resolução de problemas. Atualmente, estou cursando Engenharia de Software e sempre em busca de desafios que me ajudem a aprender e crescer como profissional. Com foco em desenvolver habilidades técnicas sólidas e colaborar em projetos que gerem valor.
 
@@ -33,11 +33,11 @@ Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 />
 
 <br/>
