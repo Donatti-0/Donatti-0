@@ -1,9 +1,11 @@
 ## **👾 Bruno Donati**
-**`🎓 Estudante de Engenharia de Software`**
+**`🎓 Estudante de Administração`**
 
-Tenho 22 anos e sou apaixonado por programação, inovação e resolução de problemas. Atualmente, estou cursando Engenharia de Software e sempre em busca de desafios que me ajudem a aprender e crescer como profissional. Com foco em desenvolver habilidades técnicas sólidas e colaborar em projetos que gerem valor.
+Tenho 22 anos e sou movido por inovação, tecnologia e resolução de problemas. Atualmente, curso Administração, direcionando meu desenvolvimento para a aplicação de soluções tecnológicas na gestão e no crescimento de negócios.
 
-Meu objetivo é contribuir com soluções eficientes e de qualidade, além de me manter atualizado com as tendências e melhores práticas da área de software.
+Utilizo a programação e ferramentas digitais como aliadas na criação de soluções eficientes, buscando sempre otimizar processos, apoiar a tomada de decisão e gerar valor estratégico.
+
+Meu objetivo é unir gestão e tecnologia para desenvolver projetos que impulsionem empresas, mantendo-me em constante evolução e alinhado às tendências do mercado.
 
 <div> 
 <a href="https://www.instagram.com/_bruno_donati?igsh=bTZzdXF6NDJzN2tl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
